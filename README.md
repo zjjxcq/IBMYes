@@ -7,7 +7,7 @@ fork [https://github.com/CCChieh/IBMYes](https://github.com/CCChieh/IBMYes)
 * 每周自动更新`v2ray`后重新`push`
 
 
-# 配置流程
+# 配置流程 
 
 ### 配置IBM Cloud Fonudray
 * 注册并登录[https://cloud.ibm.com/](https://cloud.ibm.com/)
